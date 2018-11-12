@@ -1,0 +1,1 @@
+该文件夹中的jar均要复制到hadoop/share/hadoop/common/lib中才能正常使用word中文分词工具包
